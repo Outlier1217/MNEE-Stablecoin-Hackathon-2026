@@ -169,3 +169,13 @@ node listener.js
 cd frontend
 npm run dev
 
+--MetaMask--
+Network Name: MNEE Cloud Node
+
+RPC URL: https://outlieralgo.cloud/rpc
+
+Chain ID: 31337
+
+Currency Symbol: ETH
+
+
